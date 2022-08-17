@@ -1,0 +1,55 @@
+.App {
+  margin: 20px 40px;
+}
+
+li {
+  list-style-type: none;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+h2 {
+  margin-bottom: 10px;
+  font-size: 20px;
+}
+
+.input {
+  margin-bottom: 40px;
+}
+
+.input li {
+  margin-bottom: 8px;
+}
+
+.input span {
+  display: inline-block;
+  width: 68px;
+}
+
+.input input {
+  height: 20px;
+  padding: 1px 5px 0;
+}
+
+.output_review {
+  margin-bottom: 50px;
+}
+
+.output_button {
+  padding-bottom: 10px;
+  overflow: scroll;
+}
+
+.output_code {
+  margin-bottom: 50px;
+}
+
+.output_codeHtml {
+  margin-bottom: 20px;
+}
+
+.output_codeCss {
+  margin-bottom: 20px;
+}
